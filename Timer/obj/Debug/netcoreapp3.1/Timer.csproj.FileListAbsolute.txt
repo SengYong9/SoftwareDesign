@@ -9,3 +9,14 @@ C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\
 C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Timer\bin\Debug\netcoreapp3.1\Timer.pdb
 C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Timer\obj\Debug\netcoreapp3.1\Timer.dll
 C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Timer\obj\Debug\netcoreapp3.1\Timer.pdb
+C:\Users\User\Desktop\SIT\SIT_2105\SoftwareDesign2\Timer\obj\Debug\netcoreapp3.1\Timer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SIT\SIT_2105\SoftwareDesign2\Timer\obj\Debug\netcoreapp3.1\Timer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SIT\SIT_2105\SoftwareDesign2\Timer\obj\Debug\netcoreapp3.1\Timer.AssemblyInfo.cs
+C:\Users\User\Desktop\SIT\SIT_2105\SoftwareDesign2\Timer\obj\Debug\netcoreapp3.1\Timer.dll
+C:\Users\User\Desktop\SIT\SIT_2105\SoftwareDesign2\Timer\obj\Debug\netcoreapp3.1\Timer.pdb
+C:\Users\User\Desktop\SIT\SIT_2105\SoftwareDesign2\Timer\bin\Debug\netcoreapp3.1\Timer.exe
+C:\Users\User\Desktop\SIT\SIT_2105\SoftwareDesign2\Timer\bin\Debug\netcoreapp3.1\Timer.deps.json
+C:\Users\User\Desktop\SIT\SIT_2105\SoftwareDesign2\Timer\bin\Debug\netcoreapp3.1\Timer.runtimeconfig.json
+C:\Users\User\Desktop\SIT\SIT_2105\SoftwareDesign2\Timer\bin\Debug\netcoreapp3.1\Timer.runtimeconfig.dev.json
+C:\Users\User\Desktop\SIT\SIT_2105\SoftwareDesign2\Timer\bin\Debug\netcoreapp3.1\Timer.dll
+C:\Users\User\Desktop\SIT\SIT_2105\SoftwareDesign2\Timer\bin\Debug\netcoreapp3.1\Timer.pdb

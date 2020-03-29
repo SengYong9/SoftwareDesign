@@ -8,17 +8,29 @@ using System;
 
 namespace Timer
 {
-    class TextAlarm
+    class TextAlarm : INotification
     {
         // the message to be printed
         private string message;
+        private int seconds{set; get;}
 
         // constructor
-        public TextAlarm(string messageIn)
+        public TextAlarm(string messageIn, int count)  
         {
             // save the message for later
             message = messageIn;
+            seconds = count;
         }
+
+        // get tick
+        public int getSecond(){
+            return seconds;
+        }
+
+        public void decreaseCount(){
+            seconds--;
+        }
+
 		
 		// to be invoked when the alarm is triggered
 		public void Update()

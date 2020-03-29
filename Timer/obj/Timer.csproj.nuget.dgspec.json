@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A101530\\Documents\\SIT Teaching\\AY 2019-20\\Software Design January 2020\\My_Stuff\\Netcore\\Timer\\Timer.csproj": {}
+    "C:\\Users\\User\\Desktop\\SIT\\SIT_2105\\SoftwareDesign2\\Timer\\Timer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A101530\\Documents\\SIT Teaching\\AY 2019-20\\Software Design January 2020\\My_Stuff\\Netcore\\Timer\\Timer.csproj": {
+    "C:\\Users\\User\\Desktop\\SIT\\SIT_2105\\SoftwareDesign2\\Timer\\Timer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A101530\\Documents\\SIT Teaching\\AY 2019-20\\Software Design January 2020\\My_Stuff\\Netcore\\Timer\\Timer.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\SIT\\SIT_2105\\SoftwareDesign2\\Timer\\Timer.csproj",
         "projectName": "Timer",
-        "projectPath": "C:\\Users\\A101530\\Documents\\SIT Teaching\\AY 2019-20\\Software Design January 2020\\My_Stuff\\Netcore\\Timer\\Timer.csproj",
-        "packagesPath": "C:\\Users\\A101530\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A101530\\Documents\\SIT Teaching\\AY 2019-20\\Software Design January 2020\\My_Stuff\\Netcore\\Timer\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\SIT\\SIT_2105\\SoftwareDesign2\\Timer\\Timer.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\SIT\\SIT_2105\\SoftwareDesign2\\Timer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\A101530\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
