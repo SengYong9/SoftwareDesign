@@ -27,14 +27,21 @@ namespace ICT2106.VendingMachineOO
             VM.Amount -= cost;
 
             // move to the next state
-            if (VM.Amount > 0.0M)
+            if (VM.Amount == 0.0M)
             {
-                // need to give change
+                // no change to return, return back to idle state
                 VM.EnterState(new MakeChangeVendingMachineState(VM));
             }
-            else
+            else if(VM.fixAmount >= VM.Amount)
             {
-                // no change required; go back to idle
+                // change is required.
+                VM.EnterState(new MakeChangeVendingMachineState(VM));
+
+            } else {
+                 // no change required; go back to idle
+                VM.Display("Exact Change Only");
+                VM.Display("Please insert the exact amount only");
+                VM.flag = true;
                 VM.EnterState(new IdleVendingMachineState(VM));
             }
         }

@@ -22,8 +22,8 @@ namespace ICT2106.VendingMachineOO
             Console.WriteLine();
 
             // create a vending machine
-            VendingMachine vm = new VendingMachine();
-
+            VendingMachine vm = new VendingMachine(50);
+            Console.WriteLine(vm.Amount + vm.fixAmount);
             bool done = false;
             do
             {

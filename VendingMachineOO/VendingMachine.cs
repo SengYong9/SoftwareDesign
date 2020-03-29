@@ -14,14 +14,18 @@ namespace ICT2106.VendingMachineOO
         // the current state of the machine
         private VendingMachineState CurrentState { get; set; }
 
+        // Starting fix amount from the machine
+        public decimal fixAmount {get; set;}
         // the amount of money inserted by the user
         public decimal Amount { get; set; }
-
+        public bool flag { get; set;}
         // constructor
-        public VendingMachine()
+        public VendingMachine(decimal amount)
         {
             // start in the idle state with no money inserted
             CurrentState = new IdleVendingMachineState(this);
+            // set fix amount 
+            fixAmount = amount;
         }
 
         // display a message
